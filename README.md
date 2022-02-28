@@ -1,5 +1,5 @@
 # NeuralODEs - A journey
-Project of course **Computational Statistics** @ PoliMi - Second Edition, A.A. 2021/2022, First Semester
+Project of course **Computational Statistics** @ *PoliMi - Second Edition, A.A. 2021/2022, First Semester*
 
 ## Team
 
