@@ -29,7 +29,7 @@ In `notebooks/2D_Concentric_Annuli.ipynb` a NeuralODE is used to classify points
 <img src="./media/spiral3D.gif" width="300" />
 
 ### MNIST dataset
-In `notebooks/MNIST.ipynb` a NeuralODE is used to classify IMAGE dataset's images, providing the accuracy on the test set and visualizing the trajectories of the images in their space. The trained model can be saved and upload using the from the file `notebooks/MNIST_model.pt`.
+In `notebooks/MNIST.ipynb` a NeuralODE is used to classify MNIST dataset's images, providing the accuracy on the test set and visualizing the trajectories of the images in their space. The trained model can be saved and upload using the from the file `notebooks/MNIST_model.pt`.
 
 ## Media
 Al media (GIF and images) used in the slides.
