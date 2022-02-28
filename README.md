@@ -16,13 +16,13 @@ In `notebooks/2D_Half_Moons.ipynb` a NeuralODE is used to classify points of the
 
 ### Concentric Annuli
 In `notebooks/2D_Concentric_Annuli.ipynb` a NeuralODE is used to classify points of the concentric annuli dataset.
-![concentric_annuli](media/concentric_annuli.gif)
+<img src="./media/concentric_annuli.gif" width="300" />
 
 ### Concentric Spirals
 * In `notebooks/2D_Spirals_Augmented.ipynb` a vanilla NeuralODE is used to classify points of the concentric spirals dataset.
-![spirals](media/spirals.gif)
+<img src="./media/spirals.gif" width="300" />
 * In `notebooks/2D_Spirals.ipynb` a NeuralODE with augmentation technique is used to improve performance on concentric spirals dataset.
-![spiral3D](media/spiral3D.gif)
+<img src="./media/spiral3D.gif" width="300" />
 
 ### MNIST dataset
 In `notebooks/MNIST.ipynb` a NeuralODE is used to classify IMAGE dataset's images, providing the accuracy on the test set and visualizing the trajectories of the images in their space. The trained model can be saved and upload using the from the file `notebooks/MNIST_model.pt`.
