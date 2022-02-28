@@ -11,7 +11,7 @@ Project of course *Computational Statistics* @ PoliMi - Second Edition, A.A. 202
 
 ### Half moons
 In `notebooks/2D_Half_Moons.ipynb` a NeuralODE is used to classify points of the half moons dataset.
-![half_moons](media/half_moons.gif){:height="10px" width="10px"}
+![half_moons](media/half_moons.gif | width=100)
 
 
 ### Concentric Annuli
