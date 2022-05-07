@@ -7,6 +7,9 @@ Project of course **Computational Statistics** @ *PoliMi - Second Edition, A.A. 
 * Paulina Moskwa
 * Manfred Nesti
 
+## Topic
+Investigation on NeuralOde's: a new innovative approach that combines Neural Networks and Ordinary Differential Equations.
+
 ## Notebooks
 
 ### Half moons
